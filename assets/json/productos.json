@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Procesador AMD Ryzen 5 5600G",
+        "precio": 185000,
+        "categoria": "procesadores",
+        "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 2,
+        "nombre": "Memoria RAM 16GB DDR4 3200MHz",
+        "precio": 45000,
+        "categoria": "memorias",
+        "imagen": "https://images.unsplash.com/photo-1562976540-1e02c40c14b2?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 3,
+        "nombre": "Placa de Video Nvidia GTX 1650 4GB",
+        "precio": 220000,
+        "categoria": "placas",
+        "imagen": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 4,
+        "nombre": "Disco SSD M.2 NVMe 500GB",
+        "precio": 55000,
+        "categoria": "almacenamiento",
+        "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 5,
+        "nombre": "Fuente de Poder 600W 80 Plus",
+        "precio": 70000,
+        "categoria": "fuentes",
+        "imagen": "https://images.unsplash.com/photo-1587302305933-5c22a741369c?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 6,
+        "nombre": "Gabinete Gamer Vidrio Templado",
+        "precio": 65000,
+        "categoria": "gabinetes",
+        "imagen": "https://images.unsplash.com/photo-1544652478-6553e5828a23?w=500&auto=format&fit=crop&q=60"
+    }
+]
